@@ -4,7 +4,7 @@
 > Human-readable version: https://github.com/Amitmishra98/.p (README.md)
 > Structured data: data/models.json (101 models, 14 categories) - data/models.csv
 
-ModelAtlas is a living directory of open-weight and open-source AI, maintained by a student-teacher fellowship: large language models, MoE, reasoning, coding, vision-language, image, video, audio/music, TTS, ASR, realtime voice (omni), document AI/OCR, embedding, reranker, and 3D models - plus agents, frameworks, licenses, benchmarks, VRAM/hardware guides, free API tiers, and one-command local install instructions. Snapshot date: 2026-09-09. Benchmark figures are vendor-reported unless noted; verify on live leaderboards before production decisions.
+ModelAtlas is a living directory of open-weight and open-source AI, maintained by a student-teacher fellowship: large language models, MoE, reasoning, coding, vision-language, image, video, audio/music, TTS, ASR, realtime voice (omni), document AI/OCR, embedding, reranker, and 3D models - plus agents, frameworks, licenses, benchmarks, VRAM/hardware guides, free API tiers, and one-command local install instructions. Snapshot date: 2026-09-14. Benchmark figures are vendor-reported unless noted; verify on live leaderboards before production decisions.
 
 ## Key facts (Sept 2026)
 - Best overall open frontier LLMs: DeepSeek V4-Pro-0813 (1.6T MoE / 49B active, MIT, 1M context, open weights) and Qwen3.8-2.4T-A95B (2.4T MoE, custom license).

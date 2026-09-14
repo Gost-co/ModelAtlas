@@ -1163,7 +1163,7 @@ Self-hosted open weights never leave your infra. Hosted DeepSeek/Z.ai/Kimi APIs 
 
 ### Disclaimer - read before relying on this page
 
-- **Fast-changing data:** Model names, parameters, context sizes, licenses, and benchmark numbers change quickly. This page is a snapshot (last updated **2026-09-09**) and may lag the newest releases.
+- **Fast-changing data:** Model names, parameters, context sizes, licenses, and benchmark numbers change quickly. This page is a snapshot (last updated **2026-09-14**) and may lag the newest releases.
 - **Benchmarks are vendor-reported** and run on different harnesses. They are **not directly comparable** across models. Always verify on a live leaderboard and test on your own data.
 - **"Open source" ≠ "open weight."** Many models here release *weights* but keep training data/code partially closed (Llama, Gemma, Kimi, DeepSeek). Only `OLMo 2`, `SmolLM3`, `Pythia`, and `Amber` are fully open (data + code + weights).
 - **License caps & revenue terms:** Llama 4 (700M MAU), Kimi K3, Qwen3.8-2.4T, Hunyuan (100M MAU), LTX (<$10M ARR), MiniMax H3 (<$20M), and FLUX.2 [dev] all have conditions. **Read the license.**
@@ -1398,4 +1398,4 @@ Full history in [CHANGELOG.md](CHANGELOG.md).
 
 ---
 
-*Maintained by the ModelAtlas fellowship (students and teachers) · Version 2026.09 · Last verified 2026-09-09 · Document text CC-BY-4.0 — every model keeps its own license.*
+*Maintained by the ModelAtlas fellowship (students and teachers) · Version 2026.09 · Last verified 2026-09-14 · Document text CC-BY-4.0 — every model keeps its own license.*
