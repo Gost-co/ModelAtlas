@@ -7,7 +7,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/Document-CC--BY--4.0-lightgrey.svg)](LICENSE)
 ![Last updated](https://img.shields.io/badge/Last%20updated-2026--09--09-2ea44f)
 ![Models covered](https://img.shields.io/badge/Models%20covered-101-2ea44f)
-![Version](https://img.shields.io/badge/Version-2026.09-blue)
+![Version](https://img.shields.io/badge/Version-2026.10-blue)
 [![Hugging Face](https://img.shields.io/badge/Models-Hugging%20Face-yellow)](https://huggingface.co)
 [![Ollama](https://img.shields.io/badge/Run-Ollama-2ea44f)](https://ollama.com/library)
 [![Arena](https://img.shields.io/badge/Elo-Arena%20Leaderboard-blue)](https://arena.ai/leaderboard)
@@ -105,7 +105,7 @@ ModelAtlas is written by a **student-teacher research fellowship** — students 
 
 ### About this edition
 
-This is the **2026 edition (version 2026.09)** — a single-file directory with machine-readable twins, published under CC-BY-4.0 (each model keeps its own license). We plan one full review pass per week; the automated reminder lives in [`.github/workflows/refresh.yml`](.github/workflows/refresh.yml).
+This is the **2026 edition (version 2026.10)** — a single-file directory with machine-readable twins, published under CC-BY-4.0 (each model keeps its own license). We plan one full review pass per week; the automated reminder lives in [`.github/workflows/refresh.yml`](.github/workflows/refresh.yml).
 
 ### Features at a glance
 
@@ -151,7 +151,7 @@ This is the **2026 edition (version 2026.09)** — a single-file directory with 
 
 | Field | Value |
 |---|---|
-| Edition | 2026 Edition (version 2026.09) |
+| Edition | 2026 Edition (version 2026.10) |
 | Last verified | 2026-09-09 |
 | Next scheduled refresh | automated weekly via [GitHub Actions](.github/workflows/refresh.yml) |
 | Snapshot policy | the field moves monthly; this is a point-in-time snapshot, vendor numbers are vendor numbers |
@@ -1163,7 +1163,7 @@ Self-hosted open weights never leave your infra. Hosted DeepSeek/Z.ai/Kimi APIs 
 
 ### Disclaimer - read before relying on this page
 
-- **Fast-changing data:** Model names, parameters, context sizes, licenses, and benchmark numbers change quickly. This page is a snapshot (last updated **2026-09-28**) and may lag the newest releases.
+- **Fast-changing data:** Model names, parameters, context sizes, licenses, and benchmark numbers change quickly. This page is a snapshot (last updated **2026-10-05**) and may lag the newest releases.
 - **Benchmarks are vendor-reported** and run on different harnesses. They are **not directly comparable** across models. Always verify on a live leaderboard and test on your own data.
 - **"Open source" ≠ "open weight."** Many models here release *weights* but keep training data/code partially closed (Llama, Gemma, Kimi, DeepSeek). Only `OLMo 2`, `SmolLM3`, `Pythia`, and `Amber` are fully open (data + code + weights).
 - **License caps & revenue terms:** Llama 4 (700M MAU), Kimi K3, Qwen3.8-2.4T, Hunyuan (100M MAU), LTX (<$10M ARR), MiniMax H3 (<$20M), and FLUX.2 [dev] all have conditions. **Read the license.**
@@ -1386,7 +1386,7 @@ Full history in [CHANGELOG.md](CHANGELOG.md).
 *ModelAtlas: the open-source AI model directory (2026 edition)* is compiled by the **ModelAtlas fellowship** — students who write, teachers who check, nobody who profits (see [§1](#1-about-modelatlas-and-the-team-behind-it) and [ABOUT.md](ABOUT.md)). It lives in the public GitHub repository [`Amitmishra98/.p`](https://github.com/Amitmishra98/.p), with machine-readable copies in [`llms.txt`](llms.txt), [`data/models.json`](data/models.json) and [`data/models.csv`](data/models.csv).
 
 **Cite this work:**
-> ModelAtlas Fellowship. *ModelAtlas: the open-source AI model directory (2026 edition)*. Version 2026.09, September 2026. https://github.com/Amitmishra98/.p
+> ModelAtlas Fellowship. *ModelAtlas: the open-source AI model directory (2026 edition)*. Version 2026.10, September 2026. https://github.com/Amitmishra98/.p
 
 **Our rules, short version:** every model links to its original source; numbers we did not measure ourselves are marked *(v.r.)*; every snapshot is dated; and when we get something wrong we fix it fast. Corrections are welcome as issues — see [CONTRIBUTING.md](CONTRIBUTING.md).
 
@@ -1398,4 +1398,4 @@ Full history in [CHANGELOG.md](CHANGELOG.md).
 
 ---
 
-*Maintained by the ModelAtlas fellowship (students and teachers) · Version 2026.09 · Last verified 2026-09-28 · Document text CC-BY-4.0 — every model keeps its own license.*
+*Maintained by the ModelAtlas fellowship (students and teachers) · Version 2026.10 · Last verified 2026-10-05 · Document text CC-BY-4.0 — every model keeps its own license.*
